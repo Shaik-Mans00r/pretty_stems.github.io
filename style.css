@@ -94,7 +94,7 @@ header .icons a:hover{
     display: flex;
     align-items: center;
     min-height: 100vh;
-    background-image: url(/bg4.jpg);
+    background-image: url(bg4.jpg);
     background-size: cover;
     background-position: center;
 }
